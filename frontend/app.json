@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "undrgrndAPP",
+    "slug": "undrgrndAPP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
